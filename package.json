@@ -1,10 +1,6 @@
 {
   "name": "react-native-app-intro-slider",
-<<<<<<< HEAD
   "version": "4.0.2",
-=======
-  "version": "4.0.4",
->>>>>>> ea7de752c0f8e0ba463c1153587f30694fef51ef
   "description": "Simple and configurable app introduction slider for react native",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
